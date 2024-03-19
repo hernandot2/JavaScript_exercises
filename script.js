@@ -8,3 +8,7 @@ var totalComprado = 5;
 var totalPreco = totalComprado * preco; 
 
 console.log(totalPreco);
+
+var nome = ' hernando';
+    idade = 46;
+console.log(nome,idade);
